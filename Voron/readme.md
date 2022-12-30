@@ -15,3 +15,7 @@ EBB42 Pinout
 Pi4 Pinout
 
 ![Pi4GPIOpinout](https://user-images.githubusercontent.com/103503968/208416208-73e6af12-9b57-4e98-a39e-aa8fe5c159a6.png)
+
+Nema 17 Dimensions
+
+![nema17](https://user-images.githubusercontent.com/103503968/210097768-e0b6450b-5d57-4c07-8991-936fa121e707.jpg)
